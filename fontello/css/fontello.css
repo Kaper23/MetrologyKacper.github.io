@@ -61,7 +61,7 @@
 .icon-cloud-inv:before { content: '\e804'; } /* '' */
 .icon-temperatire:before { content: '\e805';font-size: 45px; margin-left: 152px;} /* '' */
 .icon-moon-inv:before { content: '\e806'; } /* '' */
-.icon-rain-inv:before { content: '\e807'; } /* '' */
+.icon-rain-inv:before { content: '\e807'; font-size: 120px; margin:20px } /* '' */
 .icon-cloud-sun-inv:before { content: '\e808'; font-size: 120px; margin:20px;} /* '' */
 .icon-cloud-moon-inv:before { content: '\e809'; } /* '' */
 .icon-wind:before { content: '\e80a';font-size: 65px; margin-left: 152px; } /* '' */
